@@ -13,3 +13,5 @@
  });
 
  Pergunta.sync({force: false}).then(()=>{});
+
+ module.exports = Pergunta;
